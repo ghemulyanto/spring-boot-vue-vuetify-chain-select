@@ -15,9 +15,9 @@
 2. **Clone The Application**
 
       ```
-	    git clone https://github.com/ghemulyanto/spring-boot-vue-vuetify-chain-select.git
-	    cd region
-	    ```
+	git clone https://github.com/ghemulyanto/spring-boot-vue-vuetify-chain-select.git
+	cd region
+	```
     
 3. **Change MySQL/MariaDB username and password according to your MySQL/MariaDB Installation**
 
