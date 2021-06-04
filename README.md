@@ -38,15 +38,15 @@
 
 Go to the `region-vuetify` folder -
 
-      ```
-      cd region-vuetify
-      ```
+   ```
+   cd region-vuetify
+   ```
    
 Then type the following command to install the dependencies and start the application -
 
-      ```
-      npm i && npm run serve
-      ```
+   ```
+   npm i && npm run serve
+   ```
 
   The front-end server will start on port `8081`.
 
