@@ -36,13 +36,13 @@
   
 ## Steps to Setup the Vue with Vuetify Front End app (region-vuetify)
 
-Go to the `region-vuetify` folder -
+1. **Go to the `region-vuetify` folder**
 
    ```
    cd region-vuetify
    ```
    
-Then type the following command to install the dependencies and start the application -
+2. **Then type the following command to install the dependencies and start the application**
 
    ```
    npm i && npm run serve
