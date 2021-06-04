@@ -9,8 +9,8 @@
 1. **Create MySQL or MariaDB database**
 
       ```
-	    create database region
-	    ```
+      create database region
+	```
       
 2. **Clone The Application**
 
