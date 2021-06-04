@@ -8,13 +8,13 @@
 ## Steps to Setup the Spring Boot Back End app (regioin)
 1. **Create MySQL or MariaDB database**
 
-      ```bash
+      ```
 	    create database region
 	    ```
       
 2. **Clone The Application**
 
-      ```bash
+      ```
 	    git clone https://github.com/ghemulyanto/spring-boot-vue-vuetify-chain-select.git
 	    cd region
 	    ```
@@ -28,7 +28,7 @@
 
 	You can run the spring boot app by typing the following command -
 
-	    ```bash
+	    ```
 	    mvn spring-boot:run
 	    ```
 
@@ -38,13 +38,13 @@
 
 Go to the `region-vuetify` folder -
 
-      ```bash
+      ```
       cd region-vuetify
       ```
    
 Then type the following command to install the dependencies and start the application -
 
-      ```bash
+      ```
       npm i && npm run serve
       ```
 
