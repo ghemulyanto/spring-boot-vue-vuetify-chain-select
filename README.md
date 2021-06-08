@@ -6,6 +6,7 @@
   + MySQL version 8 or above or MariaDB version 10 or above
   + Java version 11
   + Node Js version 12 or above
+  + Maven 3.6.3 or above
 
 ## Steps to Setup the Spring Boot Back End app (regioin)
 1. **Create MySQL or MariaDB database**
