@@ -1,4 +1,4 @@
-## Building simple "Choose Region" app with Spring Boot for back end and Vue JS with Vuetify for front end.
+## Building simple "Choose Region" app with Spring Boot for backend and Vue JS with Vuetify for frontend.
 
 ![App Screenshot](region.gif)
 
