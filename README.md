@@ -8,7 +8,7 @@
   + Node Js version 12 or above
   + Maven 3.6.3 or above
 
-## Steps to Setup the Spring Boot Back End app (regioin)
+## Steps to Setup the Spring Boot Backend app (regioin)
 1. **Create MySQL or MariaDB database**
 
       ```
@@ -37,7 +37,7 @@
 
 	The server will start on port 8080.
   
-## Steps to Setup the Vue with Vuetify Front End app (region-vuetify)
+## Steps to Setup the Vue with Vuetify Frontend app (region-vuetify)
 
 1. **Go to the `region-vuetify` folder**
 
